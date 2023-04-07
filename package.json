@@ -1,0 +1,33 @@
+{
+  "name": "dapp-nft",
+  "version": "1.0.0",
+  "description": "Web3 Application for nfts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/dapp-nft.git"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "Web3",
+    "Dapp",
+    "NFTs"
+  ],
+  "author": "Marcos Morais",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yceman/dapp-nft/issues"
+  },
+  "homepage": "https://github.com/yceman/dapp-nft#readme",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "^3.0.2"
+  }
+}
